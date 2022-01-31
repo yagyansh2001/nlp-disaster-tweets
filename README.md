@@ -14,7 +14,7 @@ Each sample in the train and test set has the following information:
 
 3.The location the tweet was sent from (may also be blank)
 
-Columns
+#### Columns-
 
 id - a unique identifier for each tweet
 
