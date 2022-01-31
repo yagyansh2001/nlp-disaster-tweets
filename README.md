@@ -9,7 +9,9 @@ But, it’s not always clear whether a person’s words are actually announcing 
 Each sample in the train and test set has the following information:
 
 1.The text of a tweet
+
 2.A keyword from that tweet (although this may be blank!)
+
 3.The location the tweet was sent from (may also be blank)
 
 Columns
